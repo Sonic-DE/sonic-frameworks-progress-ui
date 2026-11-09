@@ -2,6 +2,10 @@
 
 Sonic Frameworks Progress UI shows the progress of long-running tasks, such as file copies and downloads, in SonicDE apps.
 
+## 6.31.0.1 (2026-11-10)
+
+- Behind the scenes: a developer documentation fix.
+
 ## 6.31.0 (2026-10-20)
 
 - Behind the scenes: version number updated for this release.
